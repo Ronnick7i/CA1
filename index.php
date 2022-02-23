@@ -42,7 +42,7 @@ $statement3->closeCursor();
 <?php
 include('includes/header.php');
 ?>
-<h1>Record </h1>
+<h1>Record list </h1>
 
 <aside>
 <!-- display a list of categories -->
