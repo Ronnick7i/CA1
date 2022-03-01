@@ -37,9 +37,9 @@ CREATE TABLE `categories` (
 --
 
 INSERT INTO `categories` (`categoryID`, `categoryName`) VALUES
-(1, 'Category 1'),
-(2, 'Category 2'),
-(3, 'Category 3');
+(1, 'Jordans 1'),
+(2, 'Nike 2'),
+(3, 'Addidas 3');
 
 -- --------------------------------------------------------
 
@@ -71,7 +71,9 @@ INSERT INTO `records` (`recordID`, `categoryID`, `name`, `price`, `image`) VALUE
 (9, 2, 'Jordan Electric', '210.00', 'JordanElectric.jpg'),
 (10, 3, 'Jordan 4 Off-White', '350.00', 'Jordan 4 Off White.jpg'),
 (11, 3, 'Jordan 4 Court Purple', '320.00', 'Jordan 4 Court Purple.jpg'),
-(12, 3, 'Jordan 1 Midnight Navy', '299.00', 'Jordan 1 Midnight Navy.jpg');
+(12, 3, 'Jordan 1 Midnight Navy', '299.00', 'Jordan 1 Midnight Navy.jpg'),
+(13, 3, 'Nike AirMax 270', '150.00', 'Nike AirMax 270.jpg'),
+(14, 3, 'Nike AirForce' , '90.00', 'Nike AirForce.jpg');
 
 --
 -- Indexes for dumped tables
