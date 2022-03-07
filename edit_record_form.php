@@ -29,11 +29,11 @@ include('includes/header.php');
             <br>
 
             <label>Name:</label>
-            <input type="input" name="name"
+            <input type="input" name="name" required
                    value="<?php echo $records['name']; ?>">
             <br>
 
-            <label>List Price:</label>
+            <label>List Pricee:</label>
             <input type="input" name="price"
                    value="<?php echo $records['price']; ?>">
             <br>
