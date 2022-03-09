@@ -6,4 +6,4 @@
 
 <!-- the body section -->
 <body>
-<header><h1>My Shoe Gallery</h1></header>
+<header><h1>Welcome to my Shoe Gallery...</h1></header>

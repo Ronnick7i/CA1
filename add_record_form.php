@@ -27,15 +27,15 @@ include('includes/header.php');
             </select>
             <br>
             <label>Name:</label>
-            <input type="input" name="name" required>
+            <input type="input" name="name" placeholder="Name of Shoe" required>
             <br>
 
             <label>List Price:</label>
-            <input type="input" name="price">
+            <input type="input" name="price" placeholder="Price" required>
             <br>    
             
             <label>Colour:</label>
-            <input type="input" name="Colour">
+            <input type="input" name="Colour" placeholder="Colour" required>
             <br>        
             
             <label>Image:</label>
@@ -43,7 +43,7 @@ include('includes/header.php');
             <br>
             
             <label>&nbsp;</label>
-            <input type="submit" value="Add Record">
+            <input type="submit" value="Add Shoe">
             <br>
         </form>
         <p><a href="index.php">View Homepage</a></p>

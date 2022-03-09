@@ -15,7 +15,7 @@ A starter project for DkIT students on the Server-Side module.
 
 - 📫 How to reach me **D00236523@student.dkit.ie**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
