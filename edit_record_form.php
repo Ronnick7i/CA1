@@ -24,7 +24,7 @@ include('includes/header.php');
                    value="<?php echo $records['recordID']; ?>">
 
             <label>Category ID:</label>
-            <input type="category_id" name="category_id"
+            <input type="category_id" name="category_id" required
                    value="<?php echo $records['categoryID']; ?>">
             <br>
 
@@ -34,12 +34,12 @@ include('includes/header.php');
             <br>
 
             <label>List Pricee:</label>
-            <input type="input" name="price"
+            <input type="input" name="price" required
                    value="<?php echo $records['price']; ?>">
             <br>
 
             <label>Colour:</label>
-            <input type="input" name="Colour"
+            <input type="input" name="Colour" required
                    value="<?php echo $records['Colour']; ?>">
             <br>
 
